@@ -1,5 +1,6 @@
-use crate::ast::{Ast, Expression, Statement, Value};
+use crate::ast::{Ast, Expression, Statement};
 
+#[allow(unused)]
 pub fn validate(ast: &Ast) -> Result<(), String> {
     for statement in &ast.statements {
         match statement {
