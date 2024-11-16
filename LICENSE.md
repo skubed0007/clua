@@ -63,7 +63,7 @@ You **must not** use the Author's name, logo, or any trademarks associated with 
 
 ## **3. Special Exception for Akshat Raj**
 
-The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and must use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction, provided that:
+The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and may use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction, provided that:
 
 - **Attribution** to the original author, **Jaytirth Kundan**, is always maintained in any version or derivative work, whether commercial or non-commercial.
 - The exception granted to Akshat Raj **cannot be transferred** to any other person, organization, or entity. It is **non-transferable** and **personal** to Akshat Raj.
