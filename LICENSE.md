@@ -40,7 +40,7 @@ If you wish to use the software for commercial purposes, you must obtain written
 Failure to provide proper attribution will result in a breach of this license.
 
 ### **2.4. Derivative Works and Modifications**
-- **Derivative works** are allowed, but they must be open-source and distributed under the **Joay License** or another compatible open-source license.
+- **Derivative works** are allowed, but they must be open-source and distributed under the **Joay License**
 - Any modifications or improvements to the software must be made publicly available under this license.
 - You **must** clearly document and disclose what changes or improvements have been made to the original software.
 
