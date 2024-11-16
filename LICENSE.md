@@ -14,7 +14,7 @@ The Author grants you a **non-exclusive**, **non-transferable**, **revocable**, 
 
 This license does **not** grant you any rights to sublicense, sell, lease, or commercially exploit the software in any form, either directly or indirectly.
 
-You may not use this software for any commercial purposes, nor can you make the software available for any form of **commercial use** or **profit generation**, including in any **closed-source** form, whether in its original or modified version. All uses that could be perceived as involving a direct or indirect profit motive are strictly prohibited unless you obtain **explicit written consent** from the Author.
+You must not use this software for any commercial purposes, nor can you make the software available for any form of **commercial use** or **profit generation**, including in any **closed-source** form, whether in its original or modified version. All uses that could be perceived as involving a direct or indirect profit motive are strictly prohibited unless you obtain **explicit written consent** from the Author.
 
 ---
 
@@ -30,13 +30,13 @@ This software is explicitly licensed for **non-commercial use only**. The follow
 - **Incorporating** the software into any **closed-source** product or service, or otherwise using the software in a manner where the source code is not publicly available or shared under this license.
 - **Profiting indirectly** from the use or redistribution of this software, including any form of monetization, advertising, or paid services connected to the software.
 
-If you wish to use the software for **commercial purposes** or as part of a **commercial product**, you must obtain **explicit written permission** from the Author. Such permission may come with additional terms and conditions. **Unauthorized commercial use** will result in immediate revocation of your rights under this license, and may lead to legal action.
+If you wish to use the software for **commercial purposes** or as part of a **commercial product**, you must obtain **explicit written permission** from the Author. Such permission must come with additional terms and conditions. **Unauthorized commercial use** will result in immediate revocation of your rights under this license, and must lead to legal action.
 
 ### **2.2. No Private, Closed-Source Use**
 
 - You **must not** use this software, or any derivative work based on it, in any **closed-source** or **private** project or software, whether for personal, commercial, or any other purpose.
 - If you modify the software, the modified version must be **open-source**, made publicly available, and distributed under the same **Joay License**. You must also **distribute the source code** of any modified version.
-- You may not use this software in any form of proprietary or private application, including those that are not publicly available or that restrict access to the source code.
+- You must not use this software in any form of proprietary or private application, including those that are not publicly available or that restrict access to the source code.
 
 ### **2.3. Attribution Requirement**
 
@@ -46,7 +46,7 @@ When distributing the software or any derivative works, you must provide **clear
 - A link to the official project repository or website.
 - A statement that acknowledges the Author’s contribution to the software and its development.
 
-Failure to provide proper attribution is a violation of this license and may result in legal action.
+Failure to provide proper attribution is a violation of this license and must result in legal action.
 
 ### **2.4. Derivative Works and Modifications**
 
@@ -57,17 +57,17 @@ Failure to provide proper attribution is a violation of this license and may res
 
 ### **2.5. No Use of Trademarks or Branding**
 
-You **may not** use the Author's name, logo, or any trademarks associated with the software in any way, including in modified versions, without **explicit written consent** from the Author. This includes any use in marketing, promotional materials, or derivative products, whether commercial or non-commercial.
+You **must not** use the Author's name, logo, or any trademarks associated with the software in any way, including in modified versions, without **explicit written consent** from the Author. This includes any use in marketing, promotional materials, or derivative products, whether commercial or non-commercial.
 
 ---
 
 ## **3. Special Exception for Akshat Raj**
 
-The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and may use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction, provided that:
+The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and must use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction, provided that:
 
 - **Attribution** to the original author, **Jaytirth Kundan**, is always maintained in any version or derivative work, whether commercial or non-commercial.
 - The exception granted to Akshat Raj **cannot be transferred** to any other person, organization, or entity. It is **non-transferable** and **personal** to Akshat Raj.
-- **Akshat Raj** may not sublicense, assign, or transfer this exception to any other party.
+- **Akshat Raj** must not sublicense, assign, or transfer this exception to any other party.
 
 ---
 
@@ -75,9 +75,9 @@ The individual **Akshat Raj** is the only entity exempt from the restrictions of
 
 - The **copyright** of the software remains with **Jaytirth Kundan**, and the software is protected by copyright laws and international treaties.
 - All rights to the software, including rights not expressly granted to you under this license, are reserved by the Author.
-- You may not claim ownership, authorship, or rights to the software or any derivative works beyond what is explicitly granted in this license.
+- You must not claim ownership, authorship, or rights to the software or any derivative works beyond what is explicitly granted in this license.
 
-Any unauthorized use, modification, or distribution of the software that violates this license will be considered a **copyright infringement** and will result in the immediate revocation of your license. Legal action may follow.
+Any unauthorized use, modification, or distribution of the software that violates this license will be considered a **copyright infringement** and will result in the immediate revocation of your license. Legal action must follow.
 
 ---
 
@@ -104,13 +104,13 @@ Upon termination:
 - You **must remove all copies** of the software from your devices and systems.
 - You **must destroy** any derivative works or copies of the software in your possession.
 
-If your license is terminated, you may not further use, distribute, or modify the software under any circumstances.
+If your license is terminated, you must not further use, distribute, or modify the software under any circumstances.
 
 ---
 
 ## **7. Commercial Use Requests**
 
-If you wish to use the software for **commercial purposes**, and you are **not Akshat Raj**, you must submit a **formal, written request** to the Author. The Author may approve or deny such requests at their sole discretion, and may impose additional terms or fees for commercial use. **Unauthorized commercial use** will result in an immediate revocation of your license and legal action.
+If you wish to use the software for **commercial purposes**, and you are **not Akshat Raj**, you must submit a **formal, written request** to the Author. The Author must approve or deny such requests at their sole discretion, and must impose additional terms or fees for commercial use. **Unauthorized commercial use** will result in an immediate revocation of your license and legal action.
 
 ---
 
@@ -120,7 +120,7 @@ If you wish to use the software for **commercial purposes**, and you are **not A
 Any attempt to falsely claim authorship of this software, or to misrepresent **Jaytirth Kundan** as the author, will result in immediate legal action. The Author’s identity can be verified through **official records, public repositories**, and communications.
 
 ### **8.2. Digital Fingerprinting and Tracking**
-The Author reserves the right to use **digital fingerprinting** and tracking techniques to monitor the usage and distribution of the software. These methods may be used to ensure compliance with this license, detect unauthorized use or redistribution, and protect the Author’s intellectual property.
+The Author reserves the right to use **digital fingerprinting** and tracking techniques to monitor the usage and distribution of the software. These methods must be used to ensure compliance with this license, detect unauthorized use or redistribution, and protect the Author’s intellectual property.
 
 ---
 
@@ -132,7 +132,7 @@ The Author reserves the right to modify this license at any time. Any changes to
 
 ## **10. No Transferability**
 
-This license is **non-transferable**. You may not sublicense, assign, or otherwise transfer any rights granted to you under this license to any other individual or entity. Any attempt to transfer rights without written permission from the Author will result in immediate termination of this license.
+This license is **non-transferable**. You must not sublicense, assign, or otherwise transfer any rights granted to you under this license to any other individual or entity. Any attempt to transfer rights without written permission from the Author will result in immediate termination of this license.
 
 ---
 
