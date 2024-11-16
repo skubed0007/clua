@@ -8,13 +8,13 @@ This software is licensed under the **Joay License**, created by **Jaytirth Kund
 
 The Author grants you a **non-exclusive**, **non-transferable**, **revocable**, and **limited license** to:
 
-- **Use** the software only for **non-commercial purposes** as defined herein, and only in accordance with the terms set out in this license.
-- **Modify** the software solely for personal or non-commercial use, provided that you make the modifications publicly available as required in Section 2.4, and the modifications are distributed under the same license.
-- **Distribute** the software and its modifications only under the terms of this license, ensuring that the software remains open-source and publicly accessible.
+- **Use** the software solely for **non-commercial purposes** as defined herein, and only in accordance with the terms set out in this license.
+- **Modify** the software solely for non-commercial, personal, educational, or other non-profit purposes, with the condition that any modifications made must also be distributed under the same **Joay License**, and made **open-source** and **publicly available**.
+- **Distribute** the software and its modifications, provided that you comply with the terms of this license, and the software remains **open-source**, **free of charge**, and **publicly accessible**.
 
 This license does **not** grant you any rights to sublicense, sell, lease, or commercially exploit the software in any form, either directly or indirectly.
 
-You may not use this software for any commercial purposes, nor can you make the software available for any commercial use, even if modified. All uses that could be perceived as involving a direct or indirect profit motive are prohibited unless you obtain written consent from the Author.
+You may not use this software for any commercial purposes, nor can you make the software available for any form of **commercial use** or **profit generation**, including in any **closed-source** form, whether in its original or modified version. All uses that could be perceived as involving a direct or indirect profit motive are strictly prohibited unless you obtain **explicit written consent** from the Author.
 
 ---
 
@@ -24,34 +24,36 @@ You may not use this software for any commercial purposes, nor can you make the 
 
 This software is explicitly licensed for **non-commercial use only**. The following activities are **strictly prohibited**:
 
-- **Selling, leasing, or sublicensing** the software or any part of it.
+- **Selling**, **leasing**, **licensing**, or **sublicensing** the software or any part of it, in its original or modified form.
 - **Incorporating** the software into any **commercial product**, service, or offering that generates revenue, including but not limited to Software as a Service (SaaS), subscription-based services, paid applications, and other revenue-generating offerings.
 - **Charging for access, distribution, or support** for the software, including charging for downloads, licenses, updates, or documentation.
 - **Incorporating** the software into any **closed-source** product or service, or otherwise using the software in a manner where the source code is not publicly available or shared under this license.
+- **Profiting indirectly** from the use or redistribution of this software, including any form of monetization, advertising, or paid services connected to the software.
 
-If you wish to use the software for **commercial purposes** or as part of a commercial product, you must obtain **explicit written permission** from the Author. Such permission may come with additional terms and conditions. **Unauthorized commercial use** will result in immediate revocation of your rights under this license, and may lead to legal action.
+If you wish to use the software for **commercial purposes** or as part of a **commercial product**, you must obtain **explicit written permission** from the Author. Such permission may come with additional terms and conditions. **Unauthorized commercial use** will result in immediate revocation of your rights under this license, and may lead to legal action.
 
 ### **2.2. No Private, Closed-Source Use**
 
 - You **may not** use this software, or any derivative work based on it, in any **closed-source** or **private** project or software, whether for personal, commercial, or any other purpose.
-- Any modification or derivative work of this software must be made **open-source** and publicly available, and it must be distributed under the same **Joay License**. You must also **distribute the source code** of any modified version.
-- **Private repositories or software** built using this software must be fully disclosed and made public under the same open-source terms, without exception.
+- If you modify the software, the modified version must be **open-source**, made publicly available, and distributed under the same **Joay License**. You must also **distribute the source code** of any modified version.
+- You may not use this software in any form of proprietary or private application, including those that are not publicly available or that restrict access to the source code.
 
 ### **2.3. Attribution Requirement**
 
-- When distributing the software or any derivative works, you must provide clear and visible attribution to the original author, **Jaytirth Kundan**. The attribution must include, but not be limited to:
-  - The author's full name: **Jaytirth Kundan**.
-  - A link to the official project repository or website.
-  - A statement that acknowledges the Author’s contribution to the software and its development.
+When distributing the software or any derivative works, you must provide **clear and visible attribution** to the original author, **Jaytirth Kundan**. The attribution must include, but not be limited to:
 
-If you fail to provide proper attribution, or misrepresent the software's authorship, you will be in breach of this license.
+- The author's full name: **Jaytirth Kundan**.
+- A link to the official project repository or website.
+- A statement that acknowledges the Author’s contribution to the software and its development.
+
+Failure to provide proper attribution is a violation of this license and may result in legal action.
 
 ### **2.4. Derivative Works and Modifications**
 
-- **Derivative works** are permitted, but any modifications or adaptations of the software must be distributed under the same **Joay License**.
-- The **source code of derivative works** must be publicly available, and must be openly distributed in a manner that is consistent with the goals of the **open-source** community.
-- You are required to **document and disclose** all modifications, improvements, or changes made to the software. This documentation should be clear enough to inform others what has been changed from the original version.
-- You **may not** use this software or any modifications in a proprietary, closed-source manner or in a product that is **not publicly available**.
+- **Derivative works** are permitted, but **any modifications or adaptations of the software must be made publicly available**, under the same **Joay License**. You must not make any derivative works in a form that would restrict access to the source code, including proprietary or closed-source derivatives.
+- Any modified version of the software must be **open-source**, and the modified code must be **freely available** to the public.
+- You **must clearly document and disclose** all modifications or changes you make to the original software.
+- **Commercial use** of modified versions is strictly prohibited. If you wish to use a modified version for commercial purposes, you must obtain explicit, written permission from the Author.
 
 ### **2.5. No Use of Trademarks or Branding**
 
@@ -61,9 +63,9 @@ You **may not** use the Author's name, logo, or any trademarks associated with t
 
 ## **3. Special Exception for Akshat Raj**
 
-The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and may use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction. This exception is granted subject to the following conditions:
+The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and may use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction, provided that:
 
-- **Attribution** to the original author, **Jaytirth Kundan**, must always be maintained in any version or derivative work, commercial or non-commercial.
+- **Attribution** to the original author, **Jaytirth Kundan**, is always maintained in any version or derivative work, whether commercial or non-commercial.
 - The exception granted to Akshat Raj **cannot be transferred** to any other person, organization, or entity. It is **non-transferable** and **personal** to Akshat Raj.
 - **Akshat Raj** may not sublicense, assign, or transfer this exception to any other party.
 
