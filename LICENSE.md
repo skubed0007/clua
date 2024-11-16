@@ -34,7 +34,7 @@ If you wish to use the software for **commercial purposes** or as part of a **co
 
 ### **2.2. No Private, Closed-Source Use**
 
-- You **may not** use this software, or any derivative work based on it, in any **closed-source** or **private** project or software, whether for personal, commercial, or any other purpose.
+- You **must not** use this software, or any derivative work based on it, in any **closed-source** or **private** project or software, whether for personal, commercial, or any other purpose.
 - If you modify the software, the modified version must be **open-source**, made publicly available, and distributed under the same **Joay License**. You must also **distribute the source code** of any modified version.
 - You may not use this software in any form of proprietary or private application, including those that are not publicly available or that restrict access to the source code.
 
