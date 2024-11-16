@@ -7,7 +7,7 @@ This software is licensed under the **Joay License**, created by **Jaytirth Kund
 ## **1. License Grant**
 
 The Author grants you a **non-exclusive**, **non-transferable** license to:
-- **Use** the software for non-commercial purposes, subject to the restrictions detailed below.
+- **Use** the software for **non-commercial purposes only**, subject to the restrictions detailed below.
 - **Modify** the software under the condition that the modifications are open-source and follow the terms of this license.
 - **Distribute** the software, but only if you comply with the attribution requirements and distribute the software under the same terms.
 
@@ -19,9 +19,9 @@ You may **not** sublicense, sell, or otherwise commercially exploit the software
 
 ### **2.1. Non-Commercial Use Only**
 This software is provided **for non-commercial use only**. The following uses are **strictly prohibited**:
-- Selling or leasing the software, either as-is or as part of a product.
-- Incorporating the software into any commercial product or service that generates revenue.
-- Using the software for any profit-making endeavor, including but not limited to SaaS (Software as a Service) products or paid platforms.
+- Selling, leasing, or otherwise transferring the software or its components, either as-is or as part of a product.
+- Incorporating the software into any commercial product or service that generates revenue, including but not limited to Software as a Service (SaaS), subscription services, or paid applications.
+- Using the software for any profit-making endeavor, including charging for access, support, or distribution, either directly or indirectly.
 
 If you wish to use the software for commercial purposes, you must obtain written permission from the Author. Unauthorized commercial use will result in immediate revocation of the license.
 
@@ -36,7 +36,7 @@ If you wish to use the software for commercial purposes, you must obtain written
   - The author's full name: **Jaytirth Kundan**.
   - A link to the official repository or project website.
   - A statement that clearly acknowledges the Author’s contribution to the project.
-  
+
 Failure to provide proper attribution will result in a breach of this license.
 
 ### **2.4. Derivative Works and Modifications**
@@ -126,4 +126,4 @@ This license is **non-transferable**. You cannot sublicense, assign, or otherwis
 
 By using, modifying, or distributing this software, you agree to abide by the terms of this **Joay License**. If you do not agree to these terms, you must not use, modify, or distribute the software in any form.
 
-Failure to comply with the terms of this license may result in legal action and termination of your rights to use the software along with damage coverage by the one who commited the act of breaking terms and rules of this license
+Failure to comply with the terms of this license may result in legal action and termination of your rights to use the software along with damage coverage by the one who committed the act of breaking terms and rules of this license.
