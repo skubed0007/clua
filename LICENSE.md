@@ -8,7 +8,7 @@ This software is licensed under the **Joay License**, created by **Jaytirth Kund
 
 The Author grants you a **non-exclusive**, **non-transferable**, **revocable**, and **limited license** to:
 
-- **Use** the software solely for **non-commercial purposes** as defined herein, and only in accordance with the terms set out in this license.
+- **Use** the software solely for **non-commercial, open-source purposes** and only in accordance with the terms set out in this license.
 - **Modify** the software solely for non-commercial, personal, educational, or other non-profit purposes, with the condition that any modifications made must also be distributed under the same **Joay License**, and made **open-source** and **publicly available**.
 - **Distribute** the software and its modifications, provided that you comply with the terms of this license, and the software remains **open-source**, **free of charge**, and **publicly accessible**.
 
@@ -30,15 +30,22 @@ This software is explicitly licensed for **non-commercial use only**. The follow
 - **Incorporating** the software into any **closed-source** product or service, or otherwise using the software in a manner where the source code is not publicly available or shared under this license.
 - **Profiting indirectly** from the use or redistribution of this software, including any form of monetization, advertising, or paid services connected to the software.
 
-If you wish to use the software for **commercial purposes** or as part of a **commercial product**, you must obtain **explicit written permission** from the Author. Such permission must come with additional terms and conditions. **Unauthorized commercial use** will result in immediate revocation of your rights under this license, and must lead to legal action.
+All projects that use or incorporate this software must be **open-source** and **distributed under the same Joay License**.
 
-### **2.2. No Private, Closed-Source Use**
+---
 
-- You **must not** use this software, or any derivative work based on it, in any **closed-source** or **private** project or software, whether for personal, commercial, or any other purpose.
-- If you modify the software, the modified version must be **open-source**, made publicly available, and distributed under the same **Joay License**. You must also **distribute the source code** of any modified version.
-- You must not use this software in any form of proprietary or private application, including those that are not publicly available or that restrict access to the source code.
+### **2.2. Open-Source Requirement**
 
-### **2.3. Attribution Requirement**
+- Any project that uses or integrates this software must also be **open-source** and distributed under the **Joay License**, or another open-source license that does not contradict the terms of this license.
+- **Commercial use** of this software or any project that integrates this software is strictly prohibited.
+- You must ensure that the **source code** of any project utilizing this software remains **publicly available** and **open-source**, and that it is shared under the **Joay License**.
+
+### **2.3. No Private, Closed-Source Use**
+
+- You **must not** use this software, or any derivative work based on it, in any **closed-source**, **private**, or proprietary project.
+- Any modifications or derivative works must also be made **publicly available** under the same **Joay License**, with the source code openly accessible.
+
+### **2.4. Attribution Requirement**
 
 When distributing the software or any derivative works, you must provide **clear and visible attribution** to the original author, **Jaytirth Kundan**. The attribution must include, but not be limited to:
 
@@ -46,42 +53,21 @@ When distributing the software or any derivative works, you must provide **clear
 - A link to the official project repository or website.
 - A statement that acknowledges the Author’s contribution to the software and its development.
 
-Failure to provide proper attribution is a violation of this license and must result in legal action.
-
-### **2.4. Derivative Works and Modifications**
-
-- **Derivative works** are permitted, but **any modifications or adaptations of the software must be made publicly available**, under the same **Joay License**. You must not make any derivative works in a form that would restrict access to the source code, including proprietary or closed-source derivatives.
-- Any modified version of the software must be **open-source**, and the modified code must be **freely available** to the public.
-- You **must clearly document and disclose** all modifications or changes you make to the original software.
-- **Commercial use** of modified versions is strictly prohibited. If you wish to use a modified version for commercial purposes, you must obtain explicit, written permission from the Author.
-
-### **2.5. No Use of Trademarks or Branding**
-
-You **must not** use the Author's name, logo, or any trademarks associated with the software in any way, including in modified versions, without **explicit written consent** from the Author. This includes any use in marketing, promotional materials, or derivative products, whether commercial or non-commercial.
+Failure to provide proper attribution is a violation of this license and will result in legal action.
 
 ---
 
-## **3. Special Exception for Akshat Raj**
-
-The individual **Akshat Raj** is the only entity exempt from the restrictions of this license and may use, modify, and distribute the software for **both commercial and non-commercial purposes**, without restriction, provided that:
-
-- **Attribution** to the original author, **Jaytirth Kundan**, is always maintained in any version or derivative work, whether commercial or non-commercial.
-- The exception granted to Akshat Raj **cannot be transferred** to any other person, organization, or entity. It is **non-transferable** and **personal** to Akshat Raj.
-- **Akshat Raj** must not sublicense, assign, or transfer this exception to any other party.
-
----
-
-## **4. Ownership and Copyright**
+## **3. Ownership and Copyright**
 
 - The **copyright** of the software remains with **Jaytirth Kundan**, and the software is protected by copyright laws and international treaties.
 - All rights to the software, including rights not expressly granted to you under this license, are reserved by the Author.
 - You must not claim ownership, authorship, or rights to the software or any derivative works beyond what is explicitly granted in this license.
 
-Any unauthorized use, modification, or distribution of the software that violates this license will be considered a **copyright infringement** and will result in the immediate revocation of your license. Legal action must follow.
+Any unauthorized use, modification, or distribution of the software that violates this license will be considered a **copyright infringement** and will result in the immediate revocation of your license. Legal action will follow.
 
 ---
 
-## **5. No Warranty**
+## **4. No Warranty**
 
 This software is provided to you **"as-is"** without any warranties or representations of any kind, either express or implied. The Author makes no representations or warranties regarding the software's functionality, quality, performance, or fitness for a particular purpose. You assume all risks related to the use of the software.
 
@@ -89,7 +75,7 @@ The Author is **not liable** for any damages, losses, or legal claims arising fr
 
 ---
 
-## **6. License Termination**
+## **5. License Termination**
 
 The Author reserves the right to terminate your license under this agreement at any time if:
 
@@ -108,29 +94,31 @@ If your license is terminated, you must not further use, distribute, or modify t
 
 ---
 
-## **7. Commercial Use Requests**
+## **6. Commercial Use Requests**
 
 If you wish to use the software for **commercial purposes**, and you are **not Akshat Raj**, you must submit a **formal, written request** to the Author. The Author must approve or deny such requests at their sole discretion, and must impose additional terms or fees for commercial use. **Unauthorized commercial use** will result in an immediate revocation of your license and legal action.
 
 ---
 
-## **8. Anti-Fraud and Identity Protection**
+## **7. Anti-Fraud and Identity Protection**
 
-### **8.1. Identity Verification**
+### **7.1. Identity Verification**
+
 Any attempt to falsely claim authorship of this software, or to misrepresent **Jaytirth Kundan** as the author, will result in immediate legal action. The Author’s identity can be verified through **official records, public repositories**, and communications.
 
-### **8.2. Digital Fingerprinting and Tracking**
+### **7.2. Digital Fingerprinting and Tracking**
+
 The Author reserves the right to use **digital fingerprinting** and tracking techniques to monitor the usage and distribution of the software. These methods must be used to ensure compliance with this license, detect unauthorized use or redistribution, and protect the Author’s intellectual property.
 
 ---
 
-## **9. Modifications to This License**
+## **8. Modifications to This License**
 
 The Author reserves the right to modify this license at any time. Any changes to the license will apply to **future versions** of the software. You will be notified of these changes, and will have the option to accept or reject the updated terms. Continued use of the software after such modifications constitutes your acceptance of the updated terms.
 
 ---
 
-## **10. No Transferability**
+## **9. No Transferability**
 
 This license is **non-transferable**. You must not sublicense, assign, or otherwise transfer any rights granted to you under this license to any other individual or entity. Any attempt to transfer rights without written permission from the Author will result in immediate termination of this license.
 
